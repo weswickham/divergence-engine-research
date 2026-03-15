@@ -2,7 +2,7 @@
 
 **Researcher:** Wes Wickham  
 **Institution:** University of Wollongong, Faculty of the Arts, Social Sciences and Humanities  
-**Supervisors:** Christopher Moore (primary), Brian Yecies  
+**Supervisors:** Brian Yecies (primary), Christopher Moore 
 **Research context:** PhD Candidate, Design and Visual Communications  
 **Archive established:** March 2026  
 
