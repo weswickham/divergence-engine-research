@@ -1,7 +1,7 @@
 # Divergence Engine — Research Archive
 
 **Researcher:** Wes Wickham  
-**Institution:** University of Wollongong, Faculty of the Arts, Social Sciences and Humanities  
+**Institution:** University of Wollongong, Faculty of the Arts, Society and Business  
 **Supervisors:** Brian Yecies (primary), Christopher Moore  
 **Research context:** PhD Candidate, Design and Visual Communications  
 **Archive established:** March 2026  
