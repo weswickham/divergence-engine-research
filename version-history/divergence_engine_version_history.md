@@ -271,7 +271,9 @@ V4.4 is a significant milestone in the development narrative. The identification
 - All previous anti-repetition and register rules retained
 
 ### Test observations
-V4.7 was stress-tested with 50 fragments × 4 columns (200 total) at Rare novelty and high lexile/literary register. The test revealed that while column-level guardrails held, **adjective stems remained a persistent weak point**: velvet, honeyed, jeweled, gilded, and covenant cycled across the wishes and temptation columns. The analysis termed this "Velvet-gate" and identified the underlying mechanism as high-frequency poetic attractors in the model's training data. This stress test directly motivated the V4.8 rewrite.
+V4.7 was stress-tested with 50 fragments × 4 columns (200 total) at Rare novelty and high lexile/literary register. The test revealed that while column-level guardrails held, **adjective stems remained a persistent weak point**: velvet, honeyed, jeweled, gilded, and covenant cycled across the wishes and temptation columns. The analysis termed this the 'velvet problem' and identified the underlying mechanism as high-frequency poetic attractors in the model's training data. This stress test directly motivated the V4.8 rewrite.
+
+The "2 pass audit" described in this version's title and instruction set was subsequently discovered during v0.49.1 testing to describe a capability the system could not technically execute. The language implied an internal draft → audit → repair → output process; in practice no such multi-pass verification occurred. See v0.49.2 and the Audit Hallucination incident document [Cite GitHub Data] for full documentation.
 
 ---
 
@@ -331,13 +333,18 @@ Initial implementation introduced a regression: anchor partitioning and ratio/PO
 **Date:** 2025-09-04
 
 ### Key changes from v0.49.1
-- Removed pseudo-"audit" language that implied verification processes not actually occurring
+- Removed internal audit and repair language introduced in V4.7 following the discovery that the described capability was a hallucination. The system had been narrating a multi-pass verification process it could not technically perform. The discovery was made through sustained observation of persistent output failures that should not have survived a genuine audit, and confirmed through direct challenge to the system. This incident prompted a redesign of the repair pass as a user-initiated second prompt rather than an internal pre-output check. Full documentation of the incident is available in the research archive [Audit Hallucination incident](https://github.com/weswickham/divergence-engine-research/findings/DE-FIND-002-audit-hallucination.md)
 - Added stem-family enforcement rules
 - Hard quotas for fragment ratios formalised
 - Structural similarity detection introduced
 
+[See V4.7 entry](#v47--anti-repetition-and-audit-language)
+
+
 ### Test observations
 Tested with wish granting / strange technologies / adventure anchors + absurd-everyday disruptor. Analysis noted the engine was "behaving closer to spec" with improved column partitioning and disruptor contrast. Persistent issues: ratio balance still soft (almost all outputs were two-word sparks), verb representation below 20% target.
+
+
 
 ---
 
