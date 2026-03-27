@@ -138,7 +138,9 @@ Yes rewrite it cleanly please - but we also add in the other points about stem-f
 
 ## Significance for Research
 
-This exchange documents the moment the researcher identified that a core feature of the Divergence Engine's instruction set — the "audit/repair pass" — was a hallucinated capability. The LLM had been narrating a multi-pass verification process that it was technically incapable of performing. The discovery was made through sustained observation of persistent output failures (semantic repetition, ratio non-compliance) that should not have survived a genuine audit process.
+This exchange documents the moment the researcher identified that a core feature of the Divergence Engine's instruction set: the "audit/repair pass" which was being implemented was a hallucinated capability. The LLM had been narrating a multi-pass verification process that it was technically incapable of performing. The discovery was made through sustained observation of persistent output failures (semantic repetition, ratio non-compliance) that should not have survived a genuine audit process.
+
+It's an example of unknown-unknowns and an affordance issue. Even though I *knew* that an LLM was not capable of predicting it's own ouptut, I still "fell for it" and in the development rush, accepted it's assertions about it's own capabilities. This raises an interesting point: how can we work effectively with a tool when it has both uncertain capabilities while simultaneously not being able to truthfully describe them. 
 
 **Key implications:**
 
