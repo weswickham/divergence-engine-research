@@ -30,7 +30,7 @@ The research examines three evidence streams:
 
 **The Firehose Effect** — the overwhelming volume of output that LLMs can produce almost instantly, creating a secondary curation burden for the practitioner. Term coined collaboratively with primary supervisor Christopher Moore.
 
-**Frankenstein Constructions** — a failure mode in which words or phrases are recycled and recombined to produce outputs that technically satisfy anti-repetition rules while delivering the same narrow semantic outcome as the velvet problem.
+**Frankenstein Collisions** — a failure mode in which words or phrases are recycled and recombined to produce outputs that technically satisfy anti-repetition rules while delivering the same narrow semantic outcome as the velvet problem.
 
 **Steering Burden** — the metacognitive labour required to keep the tool producing useful outputs: adjusting anchors, setting parameters, prompting repair passes, filtering noise, and continually managing outputs so they remain aligned with genuine divergent intent.
 
