@@ -44,7 +44,7 @@ The most significant shift in my understanding came from reconstructing the time
 
 This matters because it changes how I understand my own practice during the experiment. When I was deeply engaged in the developmental process, I prioritised the creative and conceptual work itself. Administrative discipline lagged behind. This does not mean the process was undocumented, but it does mean that the record became harder to reconstruct than it should have been.
 
-There are also genuine gaps. Version 2 is effectively a ghost and can only be inferred by comparing version 1 and version 3. Versions 4.1, 4.2, and 4.3 appear to have been made quickly and do not survive as discrete backups. Despite this, the broader developmental log still reveals the major conceptual shifts in the project, and around twenty versions of the instructions have now been archived as accurately as possible.
+There are also genuine gaps. Version 2 is effectively a ghost and can only be inferred by comparing version 1 and version 3. Versions 4.1, 4.2, and 4.3 were made quickly and do not survive as discrete backups. They could be reconstructed  by reviewing the full transcript histories which has been saved but the value of doing this now seems limited. Despite this, the broader developmental log still reveals the major conceptual shifts in the project, and around twenty versions of the instructions have now been archived as accurately as possible. 
 
 ---
 
@@ -66,7 +66,7 @@ The article centres on three evidence streams: developmental burden, steering bu
 
 **Steering burden** refers to the labour involved in using the system: adjusting anchors, setting parameters, prompting repair, filtering noise, rerunning results, and continually managing the outputs so that they remain aligned with the intended kind of divergence.
 
-**Practitioner affect** refers to the experiential dimension of this work. In my case, this is not reducible to simple frustration or satisfaction. I enjoy puzzle-solving, tinkering, and problem-solving, and this orientation made parts of the developmental process highly engaging. At the same time, the process also involved irritation, overload, uncertainty, and the repeated cognitive shift from generating material to sorting, curating, and evaluating it.
+**Practitioner experience/affect** refers to the experiential dimension of this work. In my case, this is not reducible to simple frustration or satisfaction. I enjoy puzzle-solving, tinkering, and problem-solving, and this orientation made parts of the developmental process highly engaging. At the same time, the process also involved irritation, overload, uncertainty, and the repeated cognitive shift from generating material to sorting, curating, and evaluating it.
 
 Alongside these three categories, two further burdens now seem worth naming.
 
@@ -96,7 +96,7 @@ A further development was the emergence of what might be called predictive famil
 
 ## Relation to My Own Design Practice
 
-This experiment also clarified continuities between the Divergence Engine and my existing design practice. In teaching and in my own concept development, I regularly use a sequence that begins with brainstorming or attribute listing and then moves into mind mapping. I later recognised a close resemblance between this and Landa's description of attribute listing, although I had been using a similar process for many years without attaching that label to it. In my own practice, attribute listing extends beyond physical traits into conceptual territories, allowing a broad reservoir of possible material to accumulate before more structured development begins.
+This experiment also clarified continuities between the Divergence Engine and my existing design practice. In teaching and in my own concept development, I regularly begin with an open divergent brainstorming phase, accumulating a broad reservoir of raw material before any creative ideation begins. I later recognised a close resemblance between this and Landa's description of attribute listing, although I had been using a similar process for many years without attaching that label to it. In my own practice, this kind of listing extends beyond physical traits into conceptual territories, and the Divergence Engine sits directly inside this phase, generating raw linguistic material before convergence, selection, or development begins.
 
 Part of the significance of the Divergence Engine is that it sits somewhere inside this sequence. It does not replace later development, evaluation, or convergence. Rather, it operates in the early phase where quantity, spread, and suggestive variation matter. The experiment therefore sharpened my sense that brainstorming, as I understand and use it in design practice, was not being captured adequately in the scholarly literature I reviewed. That recognition contributed directly to the framing of the article.
 
