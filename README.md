@@ -148,7 +148,7 @@ Wickham, W., Moore, C., & Yecies, B. (forthcoming). [Article title]. [Journal na
 
 ## Blog Context
 
-Contextual narrative linking to these materials is available at [AAABestPrompts.com](https://aaabestprompts.com).
+Contextual narrative linking to these materials is available at the primary researcher's website: [AAABestPrompts.com](https://aaabestprompts.com).
 
 ---
 
