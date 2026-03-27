@@ -14,7 +14,7 @@ I am writing this memo as the journal article on the Divergence Engine experimen
 
 At this stage of writing, I have realised that some parts of the developmental history were less stable in the record than I had initially assumed. The article already identifies three central evidence streams: developmental burden, steering burden, and practitioner affect. Those remain valid. However, in going back through the files, transcripts, and version histories, I have also recognised other issues that may matter analytically, particularly temporal compression, interpretive burden, and documentation burden.
 
-This memo is therefore not an attempt to manufacture evidence or retrofit arguments. Rather, it is an attempt to piece together a chaotic but data-rich creative process more accurately. The data exists in abundance. The challenge has been in reconstructing and organising it.
+This memo is not an attempt to manufacture evidence or retrofit arguments. Rather, it is an attempt to piece together a chaotic but data-rich creative process more accurately. The data exists in abundance and the challenge has been in reconstructing and organising it.
 
 ---
 
@@ -30,7 +30,7 @@ This pattern now seems important. The project did not unfold as a smooth develop
 
 ## Origins and Conceptual Framing
 
-The phrase "Divergence Engine" itself surfaced earlier than I had remembered. Its appearance can be traced back to late May 2025. The wording also links to older studio language from the 1990s, when I had described our design practice as a kind of graphics engine. In its current form, however, the term became attached to a more specific conceptual problem: whether a large language model could be shaped into a useful instrument for the divergent phase of the design process.
+The phrase "Divergence Engine" itself surfaced earlier than I had remembered. Its appearance can be traced back to late May 2025. The wording also links to older studio language from the 1990s, when I had described our design practice as a kind of graphics engine. The name also carries a deliberate link to Babbages' Difference Engine and Gibson/Sterling novel.In its current form, however, the term became attached to a more specific conceptual problem: whether a large language model could be shaped into a useful instrument for the divergent phase of the design process.
 
 The Double Diamond model was part of this framing, particularly the distinction between divergence and convergence. The experiment began as a practical and intellectual curiosity about whether an LLM could support early-stage brainstorming and exploratory ideation. My early experience with ChatGPT suggested a mismatch. The model was highly fluent and highly willing to generate solutions, options, and recommendations, but this tendency did not align with my interest in open-ended exploration. The system repeatedly moved toward convergence. To hold the process in a genuinely divergent mode required repeated intervention.
 
