@@ -16,7 +16,7 @@
 | **Mode** | Steered |
 | **Condition** | DE — ChatGPT platform |
 | **Platform** | OpenAI ChatGPT Custom GPT |
-| **Related document** | DE-EXP-006-session-record.md / DE-COMP-002-early-start-comparison.md |
+| **Related document** | DE-EXP-006-session-record.md / DE-COMP-002-client-project-comparison.md |
 | **Researcher** | Wes Wickham |
 | **Institution** | University of Wollongong |
 | **Note** | Supplementary demonstration session — transparently labelled |
