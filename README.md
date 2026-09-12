@@ -70,7 +70,7 @@ divergence-engine-research/
 │
 ├── comparisons/                       — cross-condition and cross-platform analysis
 │   ├── DE-COMP-001-last-library-comparison.md
-│   └── DE-COMP-002-early-start-comparison.md
+│   └── DE-COMP-002-client-project-comparison.md
 │
 ├── findings/                          — named analytic findings
 │   └── DE-FIND-001-velvet-problem.md
