@@ -16,7 +16,7 @@
 | **Brief / Project** | Naming and identity for Early Start publishing company |
 | **Mode** | Steered |
 | **Condition** | DE — Claude platform |
-| **Related document** | DE-EXP-007-transcript.md / DE-COMP-002-early-start-comparison.md |
+| **Related document** | DE-EXP-007-transcript.md / DE-COMP-002-client-project-comparison.md |
 | **Researcher** | Wes Wickham |
 | **Institution** | University of Wollongong |
 | **Note** | Supplementary demonstration session — transparently labelled. Uses v0.49.4c Claude adaptation, not v0.49.6. |
