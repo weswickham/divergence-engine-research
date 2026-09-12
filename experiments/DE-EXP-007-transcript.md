@@ -15,7 +15,7 @@
 | **Mode** | Steered |
 | **Condition** | DE — Claude platform |
 | **Platform** | Anthropic Claude (claude.ai) |
-| **Related document** | DE-EXP-007-session-record.md / DE-COMP-002-early-start-comparison.md |
+| **Related document** | DE-EXP-007-session-record.md / DE-COMP-002-client-project-comparison.md |
 | **Researcher** | Wes Wickham |
 | **Institution** | University of Wollongong |
 | **Note** | Supplementary demonstration session — transparently labelled. Claude adaptation uses v0.49.4c instruction set recompiled for Claude's architecture. |
