@@ -333,7 +333,7 @@ Initial implementation introduced a regression: anchor partitioning and ratio/PO
 **Date:** 2025-09-04
 
 ### Key changes from v0.49.1
-- Removed internal audit and repair language introduced in V4.7 following the discovery that the described capability was a hallucination. The system had been narrating a multi-pass verification process it could not technically perform. The discovery was made through sustained observation of persistent output failures that should not have survived a genuine audit, and confirmed through direct challenge to the system. This incident prompted a redesign of the repair pass as a user-initiated second prompt rather than an internal pre-output check. Full documentation of the incident is available in the research archive [Audit Hallucination incident](https://github.com/weswickham/divergence-engine-research/findings/DE-FIND-002-audit-hallucination.md)
+- Removed internal audit and repair language introduced in V4.7 following the discovery that the described capability was a hallucination. The system had been narrating a multi-pass verification process it could not technically perform. The discovery was made through sustained observation of persistent output failures that should not have survived a genuine audit, and confirmed through direct challenge to the system. This incident prompted a redesign of the repair pass as a user-initiated second prompt rather than an internal pre-output check. Full documentation of the incident is available in the research archive [Audit Hallucination incident](../findings/DE-FIND-002-audit-hallucination.md)
 - Added stem-family enforcement rules
 - Hard quotas for fragment ratios formalised
 - Structural similarity detection introduced
