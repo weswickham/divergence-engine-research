@@ -786,7 +786,7 @@ Here’s why:
 ---
 
 ### How to check
-- If you open **Memory** in your settings, you’ll see the things I’ve actually retained across chats (e.g. that you’re a design lecturer, working on a PhD, RPG style preferences).  
+- If you open **Memory** in your settings, you’ll see the things I’ve actually retained across chats [personal details redacted].  
 - If the Divergence Engine framework isn’t listed there, it means I don’t literally “remember” it — I’ve just learned from *this* conversation’s context and your past iterations.  
 
 ---
