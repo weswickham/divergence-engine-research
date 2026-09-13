@@ -87,5 +87,16 @@ This finding connects directly to the broader research argument about why LLM-as
 
 ---
 
+## Addendum, 13 September 2026
+
+The phrase "velvets all the way down," used in the manuscript to describe this pattern, was traced to a development discussion dated 5 February 2026, in which I first named the finding this way while drafting the results section:
+
+> "The velvet problem: when prompted for responses around the thematic anchor of luxury or sophistication, variants using the word velvet proliferated (it was velvets all the way down)."
+> — Wes Wickham, development discussion, 5 February 2026
+
+This postdates the original identification of the problem (September 2025) recorded above. The phrase was coined during analysis and write-up, not during the original experimental sessions, and this addendum documents that distinction for the record.
+
+---
+
 *Document authored: 2026-03-15*  
 *Part of the Divergence Engine research archive — University of Wollongong PhD research, Wes Wickham*
